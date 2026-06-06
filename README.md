@@ -79,4 +79,4 @@ The skill is CCA-F-specific by design. The *method* (Explain → Feynman → Qui
 
 ## Credit
 
-Built and validated by Abi (CodeFreeIQ) — sat the CCA-F exam on 2026-05-30,Pass confirmed 2026-06-06.
+Built and validated by Abi (CodeFreeIQ) — sat the CCA-F exam on 2026-05-30, Pass confirmed 2026-06-06.
