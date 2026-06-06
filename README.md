@@ -1,4 +1,4 @@
-# CCA-F Exam Prep — Claude Code Skill
+# CCA-F Exam Prep
 
 A repeatable system for passing the Anthropic **Claude Certified Architect – Foundations (CCA-F)** exam.
 
