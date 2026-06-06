@@ -11,7 +11,7 @@ A Claude Code (or Cowork) skill that runs a learner through CCA-F prep using a v
 - **Distractor-pattern library** (19 named patterns — the most reusable artifact)
 - **Session opener** that surfaces what's due before any new teaching
 
-Originally built and validated by the author passing CCA-F in 12 days (913/1000 on practice exam, full pass on the real exam).
+Originally built and validated by the author: **5 days from start of study to sitting the exam** (913/1000 on the official practice exam, full pass on the real exam).
 
 ## Install
 
@@ -79,4 +79,4 @@ The skill is CCA-F-specific by design. The *method* (Explain → Feynman → Qui
 
 ## Credit
 
-Built and validated by Abi (CodeFreeIQ) — passed CCA-F on 2026-06-05 in 12 days from the start of study.
+Built and validated by Abi (CodeFreeIQ) — sat the CCA-F exam on 2026-05-30, **5 days from start of study**. Pass confirmed 2026-06-06.

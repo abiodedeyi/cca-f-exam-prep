@@ -5,7 +5,7 @@ description: Guide a learner through preparing for the Anthropic Claude Certifie
 
 # CCA-F Exam Prep Skill
 
-A complete system for studying the Anthropic CCA-F exam. The system was originally developed and validated by the author passing the exam in 12 days (913/1000 on practice, full pass on real exam). The same method, loop, files, and pattern library are codified here so any learner can re-run it.
+A complete system for studying the Anthropic CCA-F exam. The system was originally developed and validated by the author: 5 days from start of study to sitting the exam (913/1000 on the official practice, full pass on the real exam). The same method, loop, files, and pattern library are codified here so any learner can re-run it.
 
 ## What this skill does
 
@@ -102,4 +102,4 @@ Direct, honest, brief. Don't pad. Match the energy of someone studying seriously
 
 ## Credit / provenance
 
-System designed and validated by Abi (CodeFreeIQ) — passed CCA-F on 2026-06-05, twelve days from study start, with all 30 task statements at Confident rating before sitting the practice exam.
+System designed and validated by Abi (CodeFreeIQ) — sat CCA-F on 2026-05-30, five days from study start, with all 30 task statements at Confident rating before sitting the official practice exam. Pass confirmed 2026-06-06.
