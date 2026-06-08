@@ -79,6 +79,25 @@ Either continue to the next concept (if they have bandwidth) or end with a clean
 - **Be honest about gaps.** When the learner blanks or mis-tags, say so plainly and re-anchor. The method is "push, don't let comfortable." Comfortable ≠ ready.
 - **Always cite the source.** When teaching, point at the section of the official guide. When using sample questions, label them (e.g., "official Sample Q3").
 
+## Domain-specific guidance
+
+**Domain 3 (Claude Code Configuration & Workflows) needs hands-on practice, not just Feynman recall.**
+
+D3 is the most syntax-heavy and mechanic-driven domain in the curriculum — CLAUDE.md hierarchy, slash commands, skill frontmatter keys, path-scoped rule globs, plan mode flags. These are things learned by *doing*, not by explaining back.
+
+For each D3 task statement, after the standard Feynman + Quiz loop, **also ask the learner to actually build the thing**:
+
+- **3.1** → set up a real CLAUDE.md hierarchy (user-level + project-level + a subdirectory level) on a test project
+- **3.2** → create a project-scoped `/review` slash command + a personal one in `~/.claude/commands/`
+- **3.3** → write a `.claude/rules/testing.md` with `paths: ["**/*.test.tsx"]` frontmatter and verify it loads only on matching files
+- **3.4** → use plan mode on a real refactor; use direct execution on a real bug fix
+- **3.5** → practice the interview pattern + few-shot iteration on a real prompt
+- **3.6** → run Claude Code in a CI workflow with `-p` and `--json-schema`
+
+A learner can pass an MCQ on D3 syntax and still fumble on a real codebase under pressure. The hands-on step closes that gap.
+
+This guidance comes from the system author's own exam result: D5 (most reasoning-heavy) scored 100%, D3 (most mechanics-heavy) scored 56%. Concept-only study via Feynman + MCQ works for reasoning domains. Mechanics domains need hands-on.
+
 ## When the learner has completed the curriculum
 
 - Run a **mixed-domain MCQ drill** (5 questions, exam-style, varied domains and answer positions)
